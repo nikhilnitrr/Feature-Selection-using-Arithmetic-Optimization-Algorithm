@@ -1,6 +1,6 @@
-#Feature selection using Arithmetic optimization Algorithm
+# Feature selection using Arithmetic optimization Algorithm
 
-#Input
+## Input
 
 feat : feature vector matrix ( Instance x Features )
 
@@ -14,7 +14,7 @@ T : maximum number of iterations ( for all methods )
 
 k : k-value in k-nearest neighbor
 
-#Output
+## Output
 
 Acc : accuracy of validation model
 
